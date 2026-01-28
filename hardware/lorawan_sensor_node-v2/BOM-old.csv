@@ -1,0 +1,49 @@
+MPN,Qty,Designator,value,manufacturer,Category,SKU,Customer Supply,Customer Remark
+SN74AHC1G02DCKT,1,AE1,3-1478978-1,Texas Instruments (TI),Logic Gates,1012615085
+06035L104K4T2A,2,"C2,C1",0.1uF,Kyocera,Ceramic Capacitors,1009753559
+06035L104K4T2A,2,"C5,C4",0.1uF,Kyocera,Ceramic Capacitors,1009753559
+0603YC103JAT2A,1,C6,10nF,Kyocera,Ceramic Capacitors,-
+AMK212BBJ476MGHT,1,C8,47uF,Taiyo Yuden,Ceramic Capacitors,1007181023
+LMK316AB7226ML-TR,1,C10,22uF,Taiyo Yuden,Ceramic Capacitors,2500332993
+06036D105KAT2A,1,C13,1uF,Kyocera,Ceramic Capacitors,1007355527
+06035L104K4T2A,2,"C18,C17",100nF,Kyocera,Ceramic Capacitors,1009753559
+RDE5C1H560J0M1H03A,1,C19,56pF,Murata,Ceramic Capacitors,-
+FM0V104ZF,1,C20,FM0V104ZF,Kemet,"Electric Double Layer, Supercapacitors",1009274096
+UMK325BJ106KM-T,3,"C21,C9,C16",10uF,Taiyo Yuden,Ceramic Capacitors,2500324717
+06036D475MAT2A,3,"C22,C11,C12",4.7uF,Kyocera,Ceramic Capacitors,-
+LMK316AB7226ML-TR,2,"C24,C23",22uF,Taiyo Yuden,Ceramic Capacitors,2500332993
+SMF05C.TCT,1,D2,SMF05C.TCT,Semtech,TVS Diodes,2500320164
+PMEG2010ER,3,"D6,D4,D3","PMEG2010ER,115",Nexperia,Universal,-
+,4,"H4,H2,H1,H3",MountingHole,,,
+TPL5110QDDCRQ1,1,IC2,TPL5110QDDCRQ1,Texas Instruments (TI),Timers and Oscillators,1009236394
+TPS22917DBVT,1,IC3,TPS22917DBV,Texas Instruments (TI),"Analog Switches, Multiplexers and Demultiplexers",1009821045
+TPS631000DRLR,1,IC4,TPS631000DRLR,Texas Instruments (TI),DC/DC Switching Regulators,2500409761
+,1,IC5,BQ25186DLHR,,,
+TPS22919DCKR,3,"IC8,IC6,IC7",TPS22919DCKR,Texas Instruments (TI),"Analog Switches, Multiplexers and Demultiplexers",2500325484
+MC74HC157ADG,2,"JP3,JP4",PWR SEL,ON Semiconductor,CODECs,1500606164
+NCV8711BMTW330TBG,3,"JP6,JP7,JP5",3V3 -> 3SEN,ON Semiconductor,"Linear Voltage Regulators, LDO",-
+DSC8001CI2-PROGRAMMABLE,1,K1,PROG,Microchip Technology,Oscillators,-
+SEN-17589,1,K4,Qwiic,SparkFun,Sensors,-
+MEM2085-00-115-00-A,1,K5,MEM2085-00-115-00-A,GCT,Memory Connectors,-
+3590S-2-103L,1,K6,Solar Panel,Bourns,Potentiometers,2500241660
+MS621FE-FL11E,1,K7,Battery,Seiko,Batteries and Accessories,2500289408
+,1,K8,UJ20-C-H-C-3-SMT-TR,,,
+,1,K10,Conn_ARM_SWD_TagConnect_TC2030,,,
+,5,"K13,K12,K3,K2,K9",IO,,,
+,1,L1,1uH,,,
+,1,L2,AIMC-0402-82NJ-T,,,
+,2,"LED1,LED2",NCD0805R1,,,
+,1,MOD1,ESP32-S3-WROOM-1,,,
+,1,MOD2,~,,,
+B43305B2108M82,1,MOD3,EWM108-GN05,TDK,Aluminum Electrolytic Capacitors,-
+MCR01MZPJ103,4,"R1,R17,R16,R6",10K,Rohm,Chip SMD Resistors,1002651804
+EZADT32AAAJ,3,"R3,R5,R4",100R,Panasonic,Resistor Arrays,-
+4310H-104-221/800,2,"R7,R8",80R,Bourns,Resistor Arrays,-
+SMM02040C2409FB300,1,R9,24R,Vishay,Chip SMD Resistors,1009944231
+RK73H2BTTD5113F,1,R10,511k,KOA,Chip SMD Resistors,-
+MCR03ERTJ913,1,R11,91k,Rohm,Chip SMD Resistors,1002661119
+MCR01MZPF4701,2,"R12,R13",4.7k,Rohm,Chip SMD Resistors,1007484475
+CW01057K00JE123,1,R18,57k,Vishay,Through-Hole Resistors,-
+CC2640R2LRGZR,1,SW1,EN,Texas Instruments (TI),"RF Receivers, Transceivers",1018618588
+AT3S-BT-YW,1,SW2,BOOT,Amphenol,Tools and Supplies,-
+NLVHC4060ADTR2G,1,SW3,WAKE UP,ON Semiconductor,Counters,-

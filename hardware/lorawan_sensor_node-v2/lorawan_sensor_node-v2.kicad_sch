@@ -1,0 +1,234 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "957a470a-f5e1-4244-98a4-58e4cab838b7")
+	(paper "A4")
+	(lib_symbols)
+	(text "https://docs.rakwireless.com/product-categories/meshtastic/wismesh-base/datasheet-va"
+		(exclude_from_sim no)
+		(at 58.42 195.072 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "173e18ac-a8c5-4e4d-b88e-da1599cbfb95")
+	)
+	(sheet
+		(at 92.71 110.49)
+		(size 40.64 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0094f98e-9faf-4d98-bbf8-12d461e4d580")
+		(property "Sheetname" "RAK3172"
+			(at 92.71 109.7784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rak3172.kicad_sch"
+			(at 92.71 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lorawan_sensor_node-v2"
+				(path "/957a470a-f5e1-4244-98a4-58e4cab838b7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 62.23)
+		(size 39.37 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23cb51a1-1bab-44e6-81d2-faa799b7de1b")
+		(property "Sheetname" "MCU"
+			(at 120.65 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32s3.kicad_sch"
+			(at 120.65 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lorawan_sensor_node-v2"
+				(path "/957a470a-f5e1-4244-98a4-58e4cab838b7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 63.5)
+		(size 41.91 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "604ee413-cbd7-4537-ab23-d4a51e685fec")
+		(property "Sheetname" "Power"
+			(at 64.77 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 64.77 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lorawan_sensor_node-v2"
+				(path "/957a470a-f5e1-4244-98a4-58e4cab838b7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 63.5)
+		(size 39.37 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6c83e32b-95e0-497f-89a4-dc1ee46a0975")
+		(property "Sheetname" "Sensors"
+			(at 175.26 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 175.26 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lorawan_sensor_node-v2"
+				(path "/957a470a-f5e1-4244-98a4-58e4cab838b7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 146.05 110.49)
+		(size 40.64 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ab114b14-520b-4556-9c54-22caa0cae9f8")
+		(property "Sheetname" "GPS"
+			(at 146.05 109.7784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gps.kicad_sch"
+			(at 146.05 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lorawan_sensor_node-v2"
+				(path "/957a470a-f5e1-4244-98a4-58e4cab838b7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
